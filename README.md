@@ -10,8 +10,8 @@
 
  -> Run the command after starting your virtual environment
 
-   ## pip install requirements.txt
+   ### pip install requirements.txt
 
  ->Run the following command to run the program
 
-   ## python project_1.py
+   ### python project_1.py
