@@ -1,8 +1,8 @@
-# beautifulsoap
+# beautifulsoup
 
  Create web scrapping projects using beautifulsoap and or selenium
 
- -> Create a web scrapping program using python
+ ## project_1
 
  -> Scrap the following website "https://www.thesun.co.uk/sport/football/" to get the headlines, and their links
 
