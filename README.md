@@ -1,4 +1,4 @@
-# beautifulsoap
+# beautifulsoup
 
  Create web scrapping projects using beautifulsoap and or selenium
 
